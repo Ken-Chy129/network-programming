@@ -1,0 +1,8 @@
+ClientMenu MENU 
+BEGIN 
+ POPUP "&Server" 
+ BEGIN 
+   MENUITEM "&Start...", 101 
+   MENUITEM "&Exit",  102 
+ END 
+END 
